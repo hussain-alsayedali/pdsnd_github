@@ -81,7 +81,7 @@ def time_stats(df):
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     df['month'] = df['Start Time'].dt.month
     popular_month = df['month'].mode()[0]
-    print('themost common month Hour is:', popular_month)
+    print('The most common month Hour is:', popular_month)
 
     # display the most common day of week
     df['day_of_week'] = df['Start Time'].dt.day_name()
@@ -202,12 +202,12 @@ def main():
                     see = input().lower
             else:
                 break
-        restart = input(' do you want to restart')
+        restart = input(' Do you want to restart')
         while restart != 'yes' and restart != 'no':
             print('type yes or no')
             restart = input()
         if restart.lower() == 'yes':
-            print('have a nice day')
+            print('have a nice beautiful day')
             break
 
 
