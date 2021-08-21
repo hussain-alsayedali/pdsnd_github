@@ -3,14 +3,15 @@
 ### Date created
 the date is from bikeshare
 
-### pdsnd project
+### Project Title
+exploring us bikeshare
 
 
 ### Description
-Describe what your project is about and what it does
-
+it will ask question about the data and find answers to these questions
 ### Files used
-Include the files used
-
+chicago.csv
+new_york_city.csv
+washington.csv
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
