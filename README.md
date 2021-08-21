@@ -4,7 +4,7 @@
 the date is from bikeshare
 
 ### Project Title
-exploring us bikeshare
+EXPLORING US BIKESHARE
 
 
 ### Description
